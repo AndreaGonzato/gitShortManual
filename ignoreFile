@@ -1,0 +1,7 @@
+create a file .gitignore
+and write all the file that you don't want to push
+es:
+
+localSettings
+/privateDir
+

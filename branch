@@ -1,0 +1,4 @@
+git branch nameOfTheBranch //create a new branch
+git checkout nameOfTheBranch //move to the branch
+git checkout -- . // return to the last commit of the branch
+
